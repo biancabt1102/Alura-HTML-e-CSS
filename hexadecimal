@@ -1,0 +1,19 @@
+0 = ausencia de cor
+F = máx de cor
+
+preto
+#000000
+
+vermelho
+#ff0000
+
+azul
+#0000ff
+
+verde
+#00ff00
+
+RGB(,,)
+
+0 = ausencia
+255 = max
